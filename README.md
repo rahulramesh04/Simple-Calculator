@@ -1,2 +1,4 @@
 # Simple-Calculator
-This is a simple calculator done using Python
+
+Simple calculatorSimple calculator
+It is a basic calculator which performs basic calculations like addition, subtraction, multiplication, division and Exponential.
